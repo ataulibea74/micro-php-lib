@@ -1,9 +1,10 @@
-# micro-php-lib
+# Micro PHP Lib
+
 Micro Php Lib - Built with ❤️
 
 ## Features
-- Feature 1
-- Feature 2
+- Lightweight and efficient
+- Easy integration with existing PHP projects
 
 ## Installation
 Clone the repository and follow the installation instructions.
