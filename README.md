@@ -1,16 +1,18 @@
-# Micro PHP Lib
+# Micro PHP Library
 
-Micro Php Lib - Built with ❤️
+## Overview
+This is a lightweight PHP library designed to simplify common tasks in PHP development.
 
 ## Features
-- Lightweight and efficient
-- Easy integration with existing PHP projects
+- Simple and efficient utility functions
+- Easy to integrate into existing projects
 
-## Installation
-Clone the repository and follow the installation instructions.
+## Tech Stack
+- PHP
 
 ## Usage
-Provide examples of how to use the project.
+Include the library in your project and use the provided functions as needed.
 
-## Support
-If you encounter any issues or have questions, please [open an issue](../../issues).
+## Future Plans
+- Expand functionality with more utility functions.
+- Improve documentation and examples.
